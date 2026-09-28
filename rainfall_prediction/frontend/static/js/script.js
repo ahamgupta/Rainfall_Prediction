@@ -1,0 +1,1 @@
+document.querySelector("form")?.addEventListener("submit", function(){ const b=document.querySelector("button"); b.textContent="Predicting..."; b.disabled=true; });
